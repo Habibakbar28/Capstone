@@ -106,7 +106,7 @@ class FirstPage extends StatelessWidget {
               Align(
                   alignment: Alignment.topLeft,
                   child:
-                  Text('Inforasi Layanan',
+                  Text('Layanan Informasi',
                     style: TextStyle(
                       fontSize: 15,
                       fontWeight: FontWeight.w300
